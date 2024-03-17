@@ -4,7 +4,7 @@
 Program ini adalah implementasi algoritma Divide and Conquer dan Brute Force pada pembangunan Kurva Bezier untuk memenuhi tugas kecil 2 strategi algoritma 2023/2024
 
 ## Prereq
-Python 3 (versi yang digunakan penulis adalah 3.12)
+Python 3 (versi yang digunakan penulis adalah 3.12)<br>
 Numpy
 ```bash
 pip install numpy
@@ -30,5 +30,5 @@ py ./main.py
 ```
 
 ## Identitas
-Maulana Muhamad Susetyo
+Maulana Muhamad Susetyo <br>
 K3 / 13522127
